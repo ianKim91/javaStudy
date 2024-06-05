@@ -1,6 +1,6 @@
-package home.variable;
+package practice;
 
-public class Practice {
+public class CastingPractice {
 	public static void main(String[] args) {
 		
 		int iNum1 = 10;
