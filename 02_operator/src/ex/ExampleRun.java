@@ -8,10 +8,10 @@ public class ExampleRun {
 		
 		//ex.ex1();
 		//ex.ex2();
-		ex.ex4();
-		ex.ex5();
-		ex.ex6();
-		ex.ex7();
+		//ex.ex4();
+		//ex.ex5();
+		//ex.ex6();
+		//ex.ex7();
 		ex.ex8();
 	
 	
